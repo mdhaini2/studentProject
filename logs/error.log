@@ -1,0 +1,28 @@
+level=ERROR ts=2022-08-08 16:50:20.598 caller=restartedMain component=org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter discovery=D msg=
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+level=ERROR ts=2022-08-08 16:50:42.482 caller=restartedMain component=org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter discovery=D msg=
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
